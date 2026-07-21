@@ -109,10 +109,6 @@ $ current_focus
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshittgupta&layout=compact&hide_border=true&title_color=F59E0B&text_color=808080&bg_color=00000000" alt="top languages">
 </p>
 
-### 🌱 Beyond code
-
-**Chief — Somaiya Voices** `2024–2025` · Led a 25+ member student media team — 10+ major events covered, 15+ high-impact videos, 40% engagement growth.
-
 ---
 
 <p align="center"><sub>💬 Open for freelance projects, collaborations, and interesting software work · <a href="mailto:harshitgupta.1910@gmail.com">harshitgupta.1910@gmail.com</a></sub></p>
