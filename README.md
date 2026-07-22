@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12161D,100:161B22&height=140&section=header&text=Harshit%20Gupta&fontColor=F59E0B&fontSize=42&fontAlignY=45&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=6E7681&animation=twinkling" width="100%"/>
+  <img src="./assets/banner.svg" alt="Harshit Gupta banner" width="100%">
 </p>
 
 <p align="center">
