@@ -1,14 +1,33 @@
-<h1 align="center">Hi, I'm Harshit Gupta 👋</h1>
-
 <p align="center">
-  <b>Computer Engineering student</b> building AI-powered tools, full-stack applications, and scalable software systems.<br>
-  <sub>Exploring the intersection of software engineering, AI, and security through real-world projects.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=header&text=Harshit%20Gupta&fontColor=F59E0B&fontSize=42&fontAlignY=55&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshit-gupta-532576291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:harshitgupta.1910@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=Harshittgupta&style=flat&color=F59E0B" alt="profile views">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=AI+Engineering+%7C+Full-Stack+Systems;Building+with+LLMs%2C+APIs+%26+scalable+infra;Currently+shipping+Query+Copilot+%40+IIT+Bombay" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <sub>Computer Engineering student building AI-powered tools, full-stack applications, and scalable software systems.<br>
+  Exploring the intersection of software engineering, AI, and security through real-world projects.</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-gupta-532576291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:harshitgupta.1910@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Harshittgupta">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://et-newsroom-woad.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshittgupta&style=for-the-badge&color=F59E0B" alt="profile views">
 </p>
 
 ---
@@ -23,6 +42,7 @@ $ current_focus
 > Developer Tools ....... tooling that improves engineering workflows      [exploring]
 > Cloud & Infrastructure  deployment, containers, distributed systems      [learning]
 ```
+
 
 ### 🛠️ Experience
 
