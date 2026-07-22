@@ -1,0 +1,24 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1c2331"/>
+      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#1c2331"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <path d="M0,190 C150,160 300,220 450,190 C600,160 750,220 900,190 C1050,160 1150,190 1200,180 L1200,220 L0,220 Z"
+        fill="url(#wave)"/>
+
+  <path d="M0,195 C150,167 300,223 450,195 C600,167 750,223 900,195 C1050,167 1150,195 1200,186"
+        fill="none" stroke="#F59E0B" stroke-width="1.5" opacity="0.5"/>
+
+  <text x="600" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="46" fill="#F59E0B">Harshit Gupta</text>
+  <text x="600" y="130" text-anchor="middle" font-family="Fira Code, Menlo, Consolas, monospace" font-size="18" fill="#22C55E">AI Engineering | Full-Stack Systems</text>
+</svg>
