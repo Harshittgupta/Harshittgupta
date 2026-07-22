@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=AI+Engineering+%7C+Full-Stack+Systems;Building+with+LLMs%2C+APIs+%26+scalable+infra;Currently+shipping+Query+Copilot+%40+IIT+Bombay" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=AI+Engineering+%7C+Full-Stack+Systems;Building+with+LLMs%2C+APIs+%26+scalable+infra" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -18,10 +18,7 @@
   <a href="mailto:harshitgupta.1910@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/Harshittgupta">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://et-newsroom-woad.vercel.app/">
+  <a href="https://harshitgupta19.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
