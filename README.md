@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=AI+Engineering+%7C+Full-Stack+Systems;Building+with+LLMs%2C+APIs+%26+scalable+infra" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=AI+Engineering+%7C+Full-Stack+Systems+%7C+Web3;Building+with+LLMs%2C+smart+contracts+%26+scalable+infra" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <sub>Computer Engineering student building AI-powered tools, full-stack applications, and scalable software systems.<br>
+  <sub>Computer Engineering student building AI-powered tools, full-stack applications, and on-chain systems.<br>
   Exploring the intersection of software engineering, AI, and security through real-world projects.</sub>
 </p>
 
@@ -36,8 +36,8 @@ $ whoami
 $ current_focus
 > AI Engineering ......... building intelligent workflows with LLMs        [active]
 > Full Stack Systems .... scalable apps, backend services, APIs            [building]
+> Web3 & Protocols ...... smart contracts, on-chain verification           [building]
 > Developer Tools ....... tooling that improves engineering workflows      [exploring]
-> Cloud & Infrastructure  deployment, containers, distributed systems      [learning]
 ```
 
 
@@ -52,10 +52,10 @@ $ current_focus
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[CertChain](https://github.com/Harshittgupta/CertChain)** ([live](https://cert-chain-lake.vercel.app/)) | On-chain credential protocol — EIP-712 signed attestations, gasless issuance, Merkle batching, and soulbound certificates with on-chain SVG that flips to REVOKED live | `Solidity` `Foundry` `React` `wagmi` `viem` |
 | **[Query Copilot](https://github.com/trustlab-org/Query-copilot)** | AI assistant inside Kibana — natural language → validated ES\|QL, with a provider-agnostic LLM layer | `TypeScript` `Kibana` `Elasticsearch` `LLMs` |
 | **[WatchDogs](https://github.com/Harshittgupta/WatchDogs)** | Real-time travel-safety platform — geo-fencing, live tracking, one-tap SOS with Twilio alerts | `MERN` `Socket.IO` `GeoJSON` `JWT` |
 | **[ET Newsroom](https://github.com/Harshittgupta/et-newsroom)** ([live](https://et-newsroom-woad.vercel.app/)) | AI news platform — real news, personalized by reader persona, Groq-powered briefings | `Next.js 14` `Supabase` `Groq` |
-| **AI Telemedicine** ([live](https://sihmain-frontend.onrender.com/)) | Healthcare access — multi-role appointments, records, medicine-demand forecasting | `MERN` `Analytics` |
 
 ### 🧰 Engineering Toolkit
 
@@ -65,12 +65,21 @@ $ current_focus
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Web3 & Blockchain**<br>
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-2A2A2A?style=flat&logo=foundry&logoColor=white)
+![wagmi](https://img.shields.io/badge/wagmi-1B1B1F?style=flat&logo=wagmi&logoColor=white)
+![viem](https://img.shields.io/badge/viem-1B1B1F?style=flat&logo=ethereum&logoColor=white)
+![ERC-721](https://img.shields.io/badge/ERC--721-627EEA?style=flat&logo=ethereum&logoColor=white)
 
 **Frontend & Mobile**<br>
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -87,6 +96,7 @@ $ current_focus
 **Backend**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat&logo=serverless&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
@@ -119,11 +129,10 @@ $ current_focus
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=googlemaps&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 Contribution Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshittgupta&show_icons=true&hide_border=true&title_color=F59E0B&icon_color=22C55E&text_color=808080&bg_color=00000000" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshittgupta&layout=compact&hide_border=true&title_color=F59E0B&text_color=808080&bg_color=00000000" alt="top languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshittgupta&bg_color=00000000&color=F59E0B&line=22C55E&point=F59E0B&area=true&hide_border=true" alt="contribution activity graph" width="100%">
 </p>
 
 ---
