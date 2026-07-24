@@ -52,7 +52,7 @@ $ current_focus
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[CertChain](https://github.com/Harshittgupta/CertChain)** ([live](https://cert-chain-lake.vercel.app/)) | On-chain credential protocol — EIP-712 signed attestations, gasless issuance, Merkle batching, and soulbound certificates with on-chain SVG that flips to REVOKED live | `Solidity` `Foundry` `React` `wagmi` `viem` |
+| **[CertChain](https://github.com/Harshittgupta/CertChain)** ([live](https://cert-chain-lake.vercel.app/)) | Tamper-proof digital certificates on Ethereum — institutions issue degrees anyone can verify in seconds, with cryptographic signatures, gasless issuance, and revocation that updates everywhere instantly | `Solidity` `Foundry` `React` `wagmi` `viem` |
 | **[Query Copilot](https://github.com/trustlab-org/Query-copilot)** | AI assistant inside Kibana — natural language → validated ES\|QL, with a provider-agnostic LLM layer | `TypeScript` `Kibana` `Elasticsearch` `LLMs` |
 | **[WatchDogs](https://github.com/Harshittgupta/WatchDogs)** | Real-time travel-safety platform — geo-fencing, live tracking, one-tap SOS with Twilio alerts | `MERN` `Socket.IO` `GeoJSON` `JWT` |
 | **[ET Newsroom](https://github.com/Harshittgupta/et-newsroom)** ([live](https://et-newsroom-woad.vercel.app/)) | AI news platform — real news, personalized by reader persona, Groq-powered briefings | `Next.js 14` `Supabase` `Groq` |
